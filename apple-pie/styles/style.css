@@ -22,3 +22,51 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+#cabecero {
+  background-image: url(/apple-pie/images/apple-pie.jpg);
+}
+div {
+  padding-left: 35%;
+  
+  
+}
+h1{
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  margin-top: 300 px;
+  margin-bottom: 50px;
+  background-size: 100%;
+  padding: 20%;
+}
+h2{
+  font-size: 50px;
+  text-decoration: solid;
+  font-weight: bold;
+  padding: 30px 0px 20px 50px;
+}
+p{
+  text-align: center;
+  padding: 0px 200px 0px 200px;
+  font-size: 150%;
+  
+}
+
+ ul li{
+font-size: 30px;
+  margin-left: 60px;
+  line-height: 40px;
+  list-style-type: disc;
+ }
+
+ ol {
+  margin-left: 30px;
+  list-style-type: decimal;
+ }
+ ol li{
+  line-height: 40px;
+  font-size: 30px ;
+  margin-left: 40px;
+  
+ }
+
